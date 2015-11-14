@@ -2,117 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>J.D. Hoglan</title>
-    <link>http://localhost:1313/</link>
+    <link>http://jhoglan.me/</link>
     <description>Recent content on J.D. Hoglan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Nov 2015 14:18:56 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Resume</title>
-      <link>http://localhost:1313/resume/</link>
-      <pubDate>Fri, 06 Nov 2015 14:18:56 -0600</pubDate>
-      
-      <guid>http://localhost:1313/resume/</guid>
-      <description>
-
-&lt;p&gt;This is meant to be a more thorough overview of what I&amp;rsquo;ve done in my career so far. For a concise version, feel free to take a look at my &lt;a href=&#34;http://localhost:1313/resume.pdf&#34;&gt;resume&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;work-experience:c59a67a3c7bc5faa453847420267045e&#34;&gt;Work Experience&lt;/h2&gt;
-
-&lt;h3 id=&#34;computer-science-tutor:c59a67a3c7bc5faa453847420267045e&#34;&gt;Computer Science Tutor&lt;/h3&gt;
-
-&lt;p&gt;I currently work for the Computer Science department at Hendrix as a tutor for lower-level Computer Science courses. My time here is generally spent helping students in these courses understand the fundamentals of what they&amp;rsquo;re doing and how they can be applied in a more general way.&lt;/p&gt;
-
-&lt;h3 id=&#34;acxiom-corporation:c59a67a3c7bc5faa453847420267045e&#34;&gt;Acxiom Corporation&lt;/h3&gt;
-
-&lt;p&gt;From January to August of 2015, I worked for Acxiom Corporation as a Software Development Intern. This was an invaluable experience as it really taught me what it was like to develop in a corporate environment. I did a number of things during my time there, including:
-* Planning the project that I was brought on to assist with. We settled on a system design and moved on to implementation from here.
-* Developed several Python classes and utilities that were used throughout the project.
-* Furthered my experience with version-control systems and learned what it&amp;rsquo;s like when using one in a team. In particular, our project used Git.
-* Packaged multiple release cycles of our project using Redhat Package Manager for deployment on Acxiom&amp;rsquo;s infrastructure.
-* With HTML/CSS and JavaScript/jQuery, I created a user-friendly web interface for our project. This also involved a Flask back-end and our REST API.&lt;/p&gt;
-
-&lt;h3 id=&#34;mre-consulting:c59a67a3c7bc5faa453847420267045e&#34;&gt;MRE Consulting&lt;/h3&gt;
-
-&lt;p&gt;For the summer of 2014 (May - August) I worked as an intern for the Information Technology help-desk at MRE Consulting.&lt;/p&gt;
-
-&lt;h2 id=&#34;education:c59a67a3c7bc5faa453847420267045e&#34;&gt;Education&lt;/h2&gt;
-
-&lt;p&gt;I am currently pursuing a bachelors of Computer Science at Hendrix College, a small liberal arts school in central Arkansas. I&amp;rsquo;m expecting to graduate in May of 2016.&lt;/p&gt;
-
-&lt;p&gt;We have a rather small Computer Science department, with 3 faculty and 9 graduating seniors in my class. However I have discovered that, for its size, the program is fairly extensive. Among other things I have taken the following Mathematics &amp;amp; Computer Science courses:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Data Structures&lt;/li&gt;
-&lt;li&gt;Discrete Mathematics&lt;/li&gt;
-&lt;li&gt;Linear Algebra&lt;/li&gt;
-&lt;li&gt;Intelligent Robotics&lt;/li&gt;
-&lt;li&gt;Scalable Software Development &amp;amp; Design&lt;/li&gt;
-&lt;li&gt;Algorithms &amp;amp; Problem-Solving Paradigms&lt;/li&gt;
-&lt;li&gt;Computer Architecture&lt;/li&gt;
-&lt;li&gt;Intelligent Robotics&lt;/li&gt;
-&lt;li&gt;Artificial Intelligence&lt;/li&gt;
-&lt;li&gt;Survey of Programming Languages&lt;/li&gt;
-&lt;li&gt;Theory of Computation&lt;/li&gt;
-&lt;li&gt;Advanced Topics: Interactive Game Development&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;And I&amp;rsquo;m rather excited about my upcoming semester:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Advanced Topics: Functional Programming&lt;/li&gt;
-&lt;li&gt;Database &amp;amp; Web Systems&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Hendrix also strongly encourages taking courses in other departments outside of your major, which I like to think is a good thing. In case you were curious, here are some of the more eclectic courses I&amp;rsquo;ve taken in my time:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Eastern Asian History to 1600&lt;/li&gt;
-&lt;li&gt;Philosophy of Action&lt;/li&gt;
-&lt;li&gt;Shakespeare: Poetry and Drama&lt;/li&gt;
-&lt;li&gt;Fundamental Music Theory&lt;/li&gt;
-&lt;li&gt;Ceramics&lt;/li&gt;
-&lt;li&gt;Spanish&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;These fairly accurately represent my interests outside of the tech sector - Language, Literature, Art, History, and Philosophy.&lt;/p&gt;
-
-&lt;h2 id=&#34;achievements:c59a67a3c7bc5faa453847420267045e&#34;&gt;Achievements&lt;/h2&gt;
-
-&lt;p&gt;This is a catch-all for things I&amp;rsquo;m proud of / hopefully interest whoever may be reading this page.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;First Place Team, CCSC Mid-South Regional Programming Competition, Spring 2015&lt;/li&gt;
-&lt;li&gt;Second Place Team, (Acxiom) Arkansas Collegiate Programming Competition, Spring 2015&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Fri, 11 Sep 2015 13:16:40 -0500</pubDate>
-      
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Hey there, welcome to my personal webpage! I&amp;rsquo;m hoping that you&amp;rsquo;re here because you&amp;rsquo;ve been linked here by me, or my resume, or we&amp;rsquo;ve met in person, and something interested you. Feel free to look around!&lt;/p&gt;
-
-&lt;p&gt;My name is J.D. Hoglan, and I&amp;rsquo;m currently studying Computer Science at Hendrix College.&lt;/p&gt;
-
-&lt;p&gt;A little about my personal backstory - I grew up with an electrician as a father, and I&amp;rsquo;ve been interested in technology ever since I was a kid. Most days of my adolescence were spent playing video games and messing with whatever computer system I was working with at the time. I was pretty much an embodiment of bottom panel of &lt;a href=&#34;http://smbc-comics.com/index.php?id=2158&#34;&gt;this SMBC comic&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;This continued throughout high school where I was convinced by one of my teachers to join the school&amp;rsquo;s branch for &lt;a href=&#34;http://www.bpa.org/&#34;&gt;Business Professionals of America&lt;/a&gt;. I took part in the Cisco networking competitions and qualified for state competitions in 2011 and national competitions in 2012. This was mostly focused on Cisco I.T. stacks and helped be get a better understanding of what exactly goes on when working with a network.&lt;/p&gt;
-
-&lt;p&gt;I graduated high school in 2012 and began attending &lt;a href=&#34;https://www.hendrix.edu/&#34;&gt;Hendrix College&lt;/a&gt;. I came in intending to study Computer Science and was fortunate enough to find that it was something I really enjoyed. I&amp;rsquo;ve been hooked on programming ever since. My time at Hendrix has been incredible, and I have been greatly influenced &amp;ndash; for the better &amp;ndash; by many faculty and friends in college. I&amp;rsquo;ve participated in funny dances, programming competitions, theatre shows, tons of collaborative projects, discussions, and learned a lot more than I would honestly expect from a Liberal Arts college&amp;rsquo;s tiny Computer Science program.&lt;/p&gt;
-
-&lt;p&gt;Anyway, that&amp;rsquo;s a pretty quick overview of what led me to where I am today. Feel free to ask&lt;/p&gt;
-
-&lt;p&gt;In the same vein, I&amp;rsquo;m currently seeking full-time employment post-graduation (May 2016) as a Software Engineer. If this interests you, I&amp;rsquo;d love to hear from you! Feel free to contact me at &lt;a href=&#34;mailto:hoglanjd@hendrix.edu&#34;&gt;hoglanjd@hendrix.edu&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;This website is generated by &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo&lt;/a&gt;, and uses the &lt;a href=&#34;https://github.com/zhe/hugo-theme-slim&#34;&gt;Slim&lt;/a&gt; theme built by &lt;a href=&#34;https://github.com/zhe&#34;&gt;Zhe Zhang&lt;/a&gt;. It&amp;rsquo;s hosted on the &lt;a href=&#34;https://pages.github.com/&#34;&gt;Github Pages&lt;/a&gt; platform.&lt;/p&gt;
-</description>
-    </item>
+    <atom:link href="http://jhoglan.me/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
