@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>J.D. Hoglan</title>
-    <link>http://jhoglan.me/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on J.D. Hoglan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Nov 2015 14:18:56 -0600</lastBuildDate>
-    <atom:link href="http://jhoglan.me/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Resume</title>
-      <link>http://jhoglan.me/resume/</link>
+      <link>http://localhost:1313/resume/</link>
       <pubDate>Fri, 06 Nov 2015 14:18:56 -0600</pubDate>
       
-      <guid>http://jhoglan.me/resume/</guid>
+      <guid>http://localhost:1313/resume/</guid>
       <description>
 
-&lt;p&gt;This is meant to be a more thorough overview of what I&amp;rsquo;ve done in my career so far. For a concise version, feel free to take a look at my &lt;a href=&#34;http://jhoglan.me/resume.pdf&#34;&gt;resume&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This is meant to be a more thorough overview of what I&amp;rsquo;ve done in my career so far. For a concise version, feel free to take a look at my &lt;a href=&#34;http://localhost:1313/resume.pdf&#34;&gt;resume&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&#34;work-experience:c59a67a3c7bc5faa453847420267045e&#34;&gt;Work Experience&lt;/h2&gt;
 
@@ -92,10 +92,10 @@
     
     <item>
       <title>About</title>
-      <link>http://jhoglan.me/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Fri, 11 Sep 2015 13:16:40 -0500</pubDate>
       
-      <guid>http://jhoglan.me/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;Hey there, welcome to my personal webpage! I&amp;rsquo;m hoping that you&amp;rsquo;re here because you&amp;rsquo;ve been linked here by me, or my resume, or we&amp;rsquo;ve met in person, and something interested you. Feel free to look around!&lt;/p&gt;
 
 &lt;p&gt;My name is J.D. Hoglan, and I&amp;rsquo;m currently studying Computer Science at Hendrix College.&lt;/p&gt;
