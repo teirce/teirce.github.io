@@ -41,8 +41,9 @@ tbody tr:nth-child(odd) th {
 
 body {
   color: #555;
-  font-family: Verdana, 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', Serif;
+  font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', Arial, Serif;
   font-size: 100%;
+  font-weight: 400;
   line-height: 1.85;
   letter-spacing: 0.01rem; }
 
@@ -52,9 +53,10 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: bold;
+  font-weight: 700;
   line-height: 1.25;
-  margin-bottom: 0.75rem; }
+  margin-bottom: 0.75rem;
+  font-family: 'Source Sans Pro', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
 
 h1 {
   font-size: 1.8rem; }
@@ -88,7 +90,7 @@ em {
   text-emphasis-position: under; }
 
 code {
-  font-family: Monaco, Courier, monospace;
+  font-family: 'Source Code Pro', Monaco, Courier, monospace;
   font-size: 0.85rem;
   color: #555;
   background-color: #f5f5f5;
@@ -110,8 +112,8 @@ pre {
   background-color: #f9f9f9; }
 
 pre code {
-  font-family: Menlo, Monaco, Courier, monospace;
-  font-size: 0.8rem;
+  font-family: 'Source Code Pro', Menlo, Monaco, Courier, monospace;
+  font-size: 0.7rem;
   padding: 0;
   color: inherit;
   background-color: transparent;
@@ -175,14 +177,16 @@ button,
   margin: 3rem auto; }
 
 .site-title {
-  font-size: 1.5rem; }
+  font-size: 1.5rem;
+  font-weight: 700; }
   .site-title a {
     color: #333; }
 
 .nav {
   position: absolute;
   top: 0;
-  left: -70px;
+  left: -15px;
+  transform: translateX(-100%);
   text-align: right; }
 
 .nav-btn {
