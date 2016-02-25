@@ -26,9 +26,12 @@
 
 &lt;p&gt;If you&amp;rsquo;re interested, you can check out the &amp;ldquo;finished&amp;rdquo; product &lt;a href=&#34;http://jmcavey.me/Projects/CerealKiller/index.html&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;This was a project that I had a lot of fun doing. It was a very intense weekend that was over in a flash. I learned a lot of things throughout the course of this project, such as:
-* The importance of time management. Knowing how to allocate your time in such a restricted project is pretty valuable.
-* When to start prototyping. We very rapidly moved from brainstorming our project to prototyping it and the resources.&lt;/p&gt;
+&lt;p&gt;This was a project that I had a lot of fun doing. It was a very intense weekend that was over in a flash. I learned a lot of things throughout the course of this project, such as:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The importance of time management. Knowing how to allocate your time in such a restricted project is pretty valuable.&lt;/li&gt;
+&lt;li&gt;When to start prototyping. We very rapidly moved from brainstorming our project to prototyping it and the resources.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&#34;two-wheeled-self-balancing-robot:3c42bb4157bf51d85ae7ffc4e1685909&#34;&gt;Two-Wheeled Self-Balancing Robot&lt;/h2&gt;
 
@@ -36,10 +39,11 @@
 
 &lt;p&gt;This project was a ton of fun. There&amp;rsquo;s something very satisfying about building an actual &lt;em&gt;thing&lt;/em&gt; that, frankly, pure-software projects can&amp;rsquo;t often match.&lt;/p&gt;
 
-&lt;p&gt;Unfortunately, we weren&amp;rsquo;t able to get our robot to work the way that we had hoped. However, I certainly learned a lot throughout the course of the project. We determined the various areas we failed were:
-* Choice of hardware. We believe that we made a few mistakes when it came to choosing hardware, and this affected the project significantly. This involves things like type of motor used, motor controllers, and inertial measurement unit that all came together in a death-by-a-thousand-cuts sort of way. &lt;strong&gt;I learned to be more careful when choosing hardware for such a particular project.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Unfortunately, we weren&amp;rsquo;t able to get our robot to work the way that we had hoped. However, I certainly learned a lot throughout the course of the project. We determined the various areas we failed were:&lt;/p&gt;
 
 &lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Choice of hardware. We believe that we made a few mistakes when it came to choosing hardware, and this affected the project significantly. This involves things like type of motor used, motor controllers, and inertial measurement unit that all came together in a death-by-a-thousand-cuts sort of way. &lt;strong&gt;I learned to be more careful when choosing hardware for such a particular project.&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+
 &lt;li&gt;&lt;p&gt;Foreign code-base. We began by trying to piece together different interfaces that we found for our specific pieces of hardware into some sort of Frankenstein of a robot. One chunk for the gyroscope, another for the PID calculations, some to interface with the IMU and motor controllers&amp;hellip; The result was that a lot of the code was inefficient or failing to work as intended. We ended up attempting to re-write a lot of hardware interfacing code, but found ourselves out of our depth. &lt;strong&gt;I learned not to be so reliant on outside code, and that sometimes getting your hands dirty &lt;em&gt;is&lt;/em&gt; the best way to deal with something.&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Unfamiliarity with the environment. We were introduced to a lot of concepts very quickly throughout the project. This resulted in a rudimentary understanding of some things that we probably should have known more about before going into the project. Things like tuning a PID controller, dealing with interrupts, interfacing with an uncommon IMU, coding in an unfamiliar language/environment, all came together in much the same way the hardware difficulties did. &lt;strong&gt;I learned that sometimes, projects fail&amp;hellip; and that&amp;rsquo;s alright. Every now and then it&amp;rsquo;s necessary to realize that, when you&amp;rsquo;re in a little over your head, you need to take a step back, and learn what you can from the experience.&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
