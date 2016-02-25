@@ -6,34 +6,8 @@
     <description>Recent content on J.D. Hoglan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Feb 2016 14:29:37 -0600</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2015 16:57:58 -0600</lastBuildDate>
     <atom:link href="http://jhoglan.me/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Projects</title>
-      <link>http://jhoglan.me/projects/</link>
-      <pubDate>Thu, 04 Feb 2016 14:29:37 -0600</pubDate>
-      
-      <guid>http://jhoglan.me/projects/</guid>
-      <description>
-
-&lt;h3 id=&#34;here-are-a-few-projects-that-i-ve-worked-on-in-the-past:3c42bb4157bf51d85ae7ffc4e1685909&#34;&gt;Here are a few projects that I&amp;rsquo;ve worked on in the past.&lt;/h3&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>http://jhoglan.me/contact/</link>
-      <pubDate>Wed, 06 Jan 2016 12:13:19 -0600</pubDate>
-      
-      <guid>http://jhoglan.me/contact/</guid>
-      <description>&lt;p&gt;Email: hoglanjd@hendrix.edu&lt;/p&gt;
-
-&lt;p&gt;Phone: 1-903-280-8956&lt;/p&gt;
-
-&lt;p&gt;LinkedIn: &lt;a href=&#34;https://www.linkedin.com/in/j-d-hoglan-6163a992&#34;&gt;https://www.linkedin.com/in/j-d-hoglan-6163a992&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Hello, World!</title>
@@ -46,22 +20,22 @@
     </item>
     
     <item>
-      <title>Experience</title>
-      <link>http://jhoglan.me/experience/</link>
+      <title>Resume</title>
+      <link>http://jhoglan.me/resume/</link>
       <pubDate>Fri, 06 Nov 2015 14:18:56 -0600</pubDate>
       
-      <guid>http://jhoglan.me/experience/</guid>
+      <guid>http://jhoglan.me/resume/</guid>
       <description>
 
 &lt;p&gt;This is meant to be a more thorough overview of what I&amp;rsquo;ve done in my career so far. For a concise version, feel free to take a look at my &lt;a href=&#34;http://jhoglan.me/resume.pdf&#34;&gt;resume&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h2 id=&#34;work-experience:4e341564189a2e1a1cb21603ba4c1d9e&#34;&gt;Work Experience&lt;/h2&gt;
+&lt;h2 id=&#34;work-experience:c59a67a3c7bc5faa453847420267045e&#34;&gt;Work Experience&lt;/h2&gt;
 
-&lt;h3 id=&#34;computer-science-tutor:4e341564189a2e1a1cb21603ba4c1d9e&#34;&gt;Computer Science Tutor&lt;/h3&gt;
+&lt;h3 id=&#34;computer-science-tutor:c59a67a3c7bc5faa453847420267045e&#34;&gt;Computer Science Tutor&lt;/h3&gt;
 
 &lt;p&gt;I currently work for the Computer Science department at Hendrix as a tutor for lower-level Computer Science courses. My time here is generally spent helping students in these courses understand the fundamentals of what they&amp;rsquo;re doing and how they can be applied in a more general way.&lt;/p&gt;
 
-&lt;h3 id=&#34;acxiom-corporation:4e341564189a2e1a1cb21603ba4c1d9e&#34;&gt;Acxiom Corporation&lt;/h3&gt;
+&lt;h3 id=&#34;acxiom-corporation:c59a67a3c7bc5faa453847420267045e&#34;&gt;Acxiom Corporation&lt;/h3&gt;
 
 &lt;p&gt;From January to August of 2015, I worked for Acxiom Corporation as a Software Development Intern. This was an invaluable experience as it really taught me what it was like to develop in a corporate environment. I did a number of things during my time there, including:&lt;/p&gt;
 
@@ -73,11 +47,11 @@
 &lt;li&gt;With HTML/CSS and JavaScript/jQuery, I created a user-friendly web interface for our project. This also involved a Flask back-end and our REST API.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;mre-consulting:4e341564189a2e1a1cb21603ba4c1d9e&#34;&gt;MRE Consulting&lt;/h3&gt;
+&lt;h3 id=&#34;mre-consulting:c59a67a3c7bc5faa453847420267045e&#34;&gt;MRE Consulting&lt;/h3&gt;
 
 &lt;p&gt;For the summer of 2014 (May - August) I worked as an intern for the Information Technology help-desk at MRE Consulting.&lt;/p&gt;
 
-&lt;h2 id=&#34;education:4e341564189a2e1a1cb21603ba4c1d9e&#34;&gt;Education&lt;/h2&gt;
+&lt;h2 id=&#34;education:c59a67a3c7bc5faa453847420267045e&#34;&gt;Education&lt;/h2&gt;
 
 &lt;p&gt;I am currently pursuing a bachelors of Computer Science at Hendrix College, a small liberal arts school in central Arkansas. I&amp;rsquo;m expecting to graduate in May of 2016.&lt;/p&gt;
 
@@ -118,7 +92,7 @@
 
 &lt;p&gt;These fairly accurately represent my interests outside of the tech sector - Language, Literature, Art, History, and Philosophy.&lt;/p&gt;
 
-&lt;h2 id=&#34;achievements:4e341564189a2e1a1cb21603ba4c1d9e&#34;&gt;Achievements&lt;/h2&gt;
+&lt;h2 id=&#34;achievements:c59a67a3c7bc5faa453847420267045e&#34;&gt;Achievements&lt;/h2&gt;
 
 &lt;p&gt;This is a catch-all for things I&amp;rsquo;m proud of / hopefully interest whoever may be reading this page.&lt;/p&gt;
 
@@ -143,7 +117,7 @@
 
 &lt;p&gt;That said, I maintain many interests that exist outside of technology.&lt;/p&gt;
 
-&lt;p&gt;I&amp;rsquo;ve found that I really enjoy building things with my hands, something that I think is common amongst engineers that spend most of their work days coding. There&amp;rsquo;s something really nice about having a &lt;strong&gt;thing&lt;/strong&gt; in front of you and being able to see it develop and evolve as the whole process comes together. (This isn&amp;rsquo;t often evident with software.) Most recently, I worked with a friend of mine to build myself a simple table to use as a desk, as I wasn&amp;rsquo;t satisfied by the offerings of pre-built furniture.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve found that I really enjoy building things with my hands, something that I think is common amongst engineers that spend most of their work days coding. There&amp;rsquo;s something really nice about having a &lt;em&gt;thing&lt;/em&gt; in front of you and being able to see it develop and evolve as the whole process comes together. (This isn&amp;rsquo;t often evident with software.) Most recently, I worked with a friend of mine to build myself a simple table to use as a desk, as I wasn&amp;rsquo;t satisfied by the offerings of pre-built furniture.&lt;/p&gt;
 
 &lt;p&gt;I do a lot of reading, mostly in the fantasy realm. I&amp;rsquo;ve loved fantasy books ever since I was a kid, and they will likely always be a large part of my life. However, I&amp;rsquo;m not particularly picky, and will often read whatever happens to catch my interest, from Shakespeare to Vonnegut.&lt;/p&gt;
 
