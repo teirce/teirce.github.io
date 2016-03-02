@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<title> Projects &middot; J.D. Hoglan </title>
+
+
+<link rel="stylesheet" href="http://jhoglan.me//css/slim.css">
+<link rel="stylesheet" href="http://jhoglan.me//css/highlight.min.css">
+<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Source+Code+Pro' rel='stylesheet' type='text/css'>
+
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://jhoglan.me/apple-touch-icon-144-precomposed.png">
+<link rel="shortcut icon" href="http://jhoglan.me/favicon.ico">
+
+
+<link href="" rel="alternate" type="application/rss+xml" title="J.D. Hoglan" />
+
+</head>
+
+<body>
+  <div class="container">
+    <div class="header">
+  <h1 class="site-title"><a href="http://jhoglan.me/">J.D. Hoglan</a></h1>
+  <p class="site-tagline"></p>
+  <div class="nav">
+    <a class="nav-btn" href="#">
+      <span class="ci ci-burger"></span>
+    </a>
+    <ul class="nav-list">
+      
+      <li><a href="http://jhoglan.me/about/">About</a></li>
+      
+      <li><a href="http://jhoglan.me/contact/">Contact</a></li>
+      
+      <li><a href="http://jhoglan.me/experience/">Experience</a></li>
+      
+      <li><a href="http://jhoglan.me/projects/">Projects</a></li>
+       
+	  <li class="spacer">&ac;</li>
+
+      <li><a href="https://github.com/teirce">Github</a></li>  
+    </ul>
+  </div>
+</div>
+    <div class="content">
+      <div class="post">
+        <h2 class="post-title"><a href="http://jhoglan.me/projects/">Projects</a></h2>
+        <div class="post-content">
+          
+
+<h2 id="ludum-dare-32:3c42bb4157bf51d85ae7ffc4e1685909">Ludum Dare 32</h2>
+
+<p>Myself and two of my friends participated in the Ludum Dare 32 competition. To quote the Ludum Dare website, the Ludum Dare is:
+&gt;an online community best known for “Ludum Dare”, the Accelerated Game Development Event of the same name (also called a “Game Jam”). During a Ludum Dare, developers from around the world spend a weekend creating games based on a theme suggested by the community.</p>
+
+<p>So, basically, we had a weekend to make a game. The theme for our particular Ludum Dare was &ldquo;an unconventional weapon.&rdquo; We decided to make a tower defense game wherein you shoot milk at bowls of cereal, aptly titled &ldquo;Cereal Killer.&rdquo;</p>
+
+<p>If you&rsquo;re interested, you can check out the &ldquo;finished&rdquo; product <a href="http://jmcavey.me/Projects/CerealKiller/index.html">here</a>.</p>
+
+<p>This was a project that I had a lot of fun doing. It was a very intense weekend that was over in a flash. I learned a lot of things throughout the course of this project, such as:</p>
+
+<ul>
+<li>The importance of time management. Knowing how to allocate your time in such a restricted project is pretty valuable.</li>
+<li>When to start prototyping. We very rapidly moved from brainstorming our project to prototyping it and the resources.</li>
+</ul>
+
+<h2 id="two-wheeled-self-balancing-robot:3c42bb4157bf51d85ae7ffc4e1685909">Two-Wheeled Self-Balancing Robot</h2>
+
+<p>For this project, I teamed up with a friend of mine in an attempt to craft a two-wheeled balancing robot using an Arduino platform. This is a pretty popular project, and we wanted to take our own crack at it.</p>
+
+<p>This project was a ton of fun. There&rsquo;s something very satisfying about building an actual <em>thing</em> that, frankly, pure-software projects can&rsquo;t often match.</p>
+
+<p>Unfortunately, we weren&rsquo;t able to get our robot to work the way that we had hoped. However, I certainly learned a lot throughout the course of the project. We determined the various areas we failed were:</p>
+
+<ul>
+<li><p>Choice of hardware. We believe that we made a few mistakes when it came to choosing hardware, and this affected the project significantly. This involves things like type of motor used, motor controllers, and inertial measurement unit that all came together in a death-by-a-thousand-cuts sort of way. <strong>I learned to be more careful when choosing hardware for such a particular project.</strong></p></li>
+
+<li><p>Foreign code-base. We began by trying to piece together different interfaces that we found for our specific pieces of hardware into some sort of Frankenstein of a robot. One chunk for the gyroscope, another for the PID calculations, some to interface with the IMU and motor controllers&hellip; The result was that a lot of the code was inefficient or failing to work as intended. We ended up attempting to re-write a lot of hardware interfacing code, but found ourselves out of our depth. <strong>I learned not to be so reliant on outside code, and that sometimes getting your hands dirty <em>is</em> the best way to deal with something.</strong></p></li>
+
+<li><p>Unfamiliarity with the environment. We were introduced to a lot of concepts very quickly throughout the project. This resulted in a rudimentary understanding of some things that we probably should have known more about before going into the project. Things like tuning a PID controller, dealing with interrupts, interfacing with an uncommon IMU, coding in an unfamiliar language/environment, all came together in much the same way the hardware difficulties did. <strong>I learned that sometimes, projects fail&hellip; and that&rsquo;s alright. Every now and then it&rsquo;s necessary to realize that, when you&rsquo;re in a little over your head, you need to take a step back, and learn what you can from the experience.</strong></p></li>
+</ul>
+
+        </div>
+      </div>
+    </div>
+    <div class="footer">
+  <p>Powered by <a href="http://gohugo.io">Hugo</a>. This theme—Slim—is open sourced on <a href="https://github.com/zhe/hugo-theme-slim">Github</a>.</p>
+</div>
+
+  </div>
+  <script src="http://jhoglan.me//js/slim.js"></script>
+  
+
+</body>
+
+</html>
